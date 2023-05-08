@@ -1,0 +1,19 @@
+
+.results-btn {
+    padding: 10px 20px ;
+    border-radius: 6px;
+    background-color: transparent;
+    border: 1px solid gray;
+    box-shadow: rgb(77, 74, 74) 1px 1px 6px;
+    transition: all 0.3s ease-in-out;
+    margin-bottom: 10px;
+  }
+  
+  .results-btn:focus {
+    transform: scale(0.92);
+  }
+
+  .txt {
+    margin: 0 auto 10px;
+  }
+  

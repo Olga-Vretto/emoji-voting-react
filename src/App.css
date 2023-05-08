@@ -1,0 +1,24 @@
+body {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 16px;
+}
+
+.page-wrap {
+    min-height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 50px 0 0;
+    background: linear-gradient(
+      90deg,
+      rgba(226, 173, 11, 0.475),
+      rgba(191, 21, 174, 0.456)
+    );
+  }
+  
+  .container {
+    max-width: 1000px;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
