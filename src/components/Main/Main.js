@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import Results from '../EmojiBox/Results';
+import Results from '../Results/Results';
 
 import img1 from "../../assets/images/1.png";
 import img2 from "../../assets/images/2.png";
